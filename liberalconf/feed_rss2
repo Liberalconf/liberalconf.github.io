@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>ЛИБЕРАЛЬНАЯ ПРОГРАММА ДЛЯ НОВОГО ВЕКА</title>
+	<description>ГЛОБАЛЬНЫЙ ВЗГЛЯД МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ Москва: 8-9 апреля 2004 г. Санкт-Петербург: 12 апреля 2004 г.</description>
+	<language>ru</language>
+	<link>http://liberalconf.ice.ru</link> 
+	<copyright>Copyright 2020 ЛИБЕРАЛЬНАЯ ПРОГРАММА ДЛЯ НОВОГО ВЕКА</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor></managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Рубрика "О конференции"</title>
+			<link>http://liberalconf.ice.ru/785</link>
+			
+			
+			
+			<pubDate/>
+			<guid>785</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "THE ROLE OF GOVERNMENT IN CHINA&rsquo;S TRANSITION TO A MARKET ECONOMY. Justin Yifu Lin, Peking University and Hong Kong University of Science and Technology"</title>
+			<link>http://liberalconf.ice.ru/149983</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149983</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "THE THREAT FROM INTERNATIONAL ORGANIZATIONS TO ECONOMIC LIBERTY. Deepak Lal, University of California, Los Angeles"</title>
+			<link>http://liberalconf.ice.ru/149982</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149982</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "PROSPECTS FOR ECONOMIC FREEDOM IN EUROPE AFTER MAY 1, 2004. Jбn Oravec, The F.A. Hayek Foundation, Slovakia"</title>
+			<link>http://liberalconf.ice.ru/149981</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149981</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "THE WORLD TRADE ORGANIZATION, ITS FUTURE, AND RUSSIA&rsquo;S FUTURE IN IT. Brink Lindsey, Cato Institute, USA"</title>
+			<link>http://liberalconf.ice.ru/149980</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149980</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "LAISSEZ-FAIRE CAPITALISM, LIMITED GOVERNMENT, AND THE PURSUIT OF HAPPINESS. Charles Murray, American Enterprise Institute, USA"</title>
+			<link>http://liberalconf.ice.ru/149979</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149979</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "THE ROLE OF INSTITUTIONS AND LAW IN ECONOMIC DEVELOPMENT. Tom G. Palmer, Cato Institute, USA"</title>
+			<link>http://liberalconf.ice.ru/149978</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149978</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "A TALE OF TWO COUNTRIES: RUSSIA AND THE UNITED STATES FACE PENSION REFORM. Michael Tanner, Cato Institute, USA"</title>
+			<link>http://liberalconf.ice.ru/149977</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149977</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "RETHINKING ELECTRICITY RESTRUCTURING. Jerry Taylor and Peter Van Doren, Cato Institute, USA"</title>
+			<link>http://liberalconf.ice.ru/149976</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149976</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Milton Friedman, Hoover Institution and Nobel laureate in Economics. Transcript of Video Remarks"</title>
+			<link>http://liberalconf.ice.ru/149975</link>
+			
+			
+			
+			<pubDate/>
+			<guid>149975</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+
